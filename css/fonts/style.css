@@ -1,0 +1,189 @@
+
+.avion{
+	color: #AEAEAE;
+	background-color: #F5F5F5;
+	float: left;
+	margin: 3px;
+	height: 250px;
+	width: 170px;
+	box-shadow: 2px 2px 7px -2px;
+	padding: 10px;
+}
+
+.avion:hover { 
+	background-color: #fff;
+	color: #B0BEC5;
+	padding: 20px; 
+}
+
+.avion h3 {
+	text-align: center;
+	margin-top: 3px;
+}
+
+.avion h4 {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.avion p {
+	text-align: center;
+}
+
+.avion img {
+	font-size: 40px;
+	color: #AEAEAE;
+	padding: 5px;
+}
+
+.diamante {
+	color: #AEAEAE;
+	background-color: #F5F5F5;
+	float: left;
+	margin: 3px;
+	height: 250px;
+	width: 170px;
+	box-shadow: 2px 2px 7px -2px;
+	padding: 10px;
+}
+
+.diamante:hover { 
+	background-color: #fff;
+	color: #B0BEC5;
+	padding: 20px; 
+}
+
+.diamante p {
+	text-align: center;
+}
+
+.diamante h3 {
+	text-align: center;
+	margin-top: 3px;
+}
+
+.diamante h4 {
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.diamante img {
+	font-size: 40px;
+	color: #AEAEAE;
+	padding: 5px;
+}
+
+.corazon {
+	color: #AEAEAE;
+	background-color: #F5F5F5;
+	float: left;
+	margin: 3px;
+	height: 250px;
+	width: 170px;
+	box-shadow: 2px 2px 7px -2px;
+	padding: 10px;
+}
+
+.corazon:hover { 
+	background-color: #fff;
+	color: #B0BEC5;
+	padding: 20px; 
+}
+
+.corazon p{
+	text-align: center;
+}
+
+.corazon h3 {
+	text-align: center;
+	margin-top: 3px;
+}
+
+.corazon h4 {
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.corazon img {
+	font-size: 40px;
+	color: #AEAEAE;
+	padding: 5px;
+}
+
+.cafe {
+	color: #AEAEAE;
+	background-color: #F5F5F5;
+	float: left;
+	margin: 3px;
+	height: 250px;
+	width: 170px;
+	box-shadow: 2px 2px 7px -2px;
+	padding: 10px;
+}
+
+.cafe:hover { 
+	background-color: #fff;
+	color: #B0BEC5;
+	padding: 20px; 
+}
+
+.cafe p {
+	text-align: center;
+}
+
+.cafe h3 {
+	text-align: center;
+	margin-top: 3px;
+}
+
+.cafe h4 {
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.cafe img {
+	font-size: 40px;
+	color: #AEAEAE;
+	padding: 5px;
+}
+
+.comida {
+	color: #AEAEAE;
+	background-color: #F5F5F5;
+	float: left;
+	margin: 3px;
+	height: 250px;
+	width: 170px;
+	box-shadow: 2px 2px 7px -2px;
+	padding: 10px;
+}
+
+.comida:hover { 
+	background-color: #fff;
+	color: #B0BEC5;
+	padding: 20px; 
+}
+
+.comida p {
+	text-align: center;
+}
+
+.comida h3 {
+	text-align: center;
+	margin-top: 3px;
+}
+
+.comida h4 {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.comida img {
+	background-image: url(../css/fonts/icomoon.eot);
+	font-size: 40px;
+	color: #AEAEAE;
+	padding: 5px;
+}
