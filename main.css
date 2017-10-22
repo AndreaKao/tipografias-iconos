@@ -4,8 +4,8 @@
 	background-color: #F5F5F5;
 	float: left;
 	margin: 3px;
-	height: 250px;
-	width: 170px;
+	height: 260px;
+	width: 180px;
 	box-shadow: 2px 2px 7px -2px;
 	padding: 10px;
 }
@@ -19,6 +19,8 @@
 .avion h3 {
 	text-align: center;
 	margin-top: 3px;
+	font-family: sans-serif;
+	font-size: 17px;
 }
 
 .avion h4 {
@@ -28,6 +30,7 @@
 
 .avion p {
 	text-align: center;
+	font-family: serif;
 }
 
 .avion img {
@@ -41,8 +44,8 @@
 	background-color: #F5F5F5;
 	float: left;
 	margin: 3px;
-	height: 250px;
-	width: 170px;
+	height: 260px;
+	width: 180px;
 	box-shadow: 2px 2px 7px -2px;
 	padding: 10px;
 }
@@ -55,11 +58,14 @@
 
 .diamante p {
 	text-align: center;
+	font-family: serif;
 }
 
 .diamante h3 {
 	text-align: center;
 	margin-top: 3px;
+	font-family: sans-serif;
+	font-size: 17px;
 }
 
 .diamante h4 {
@@ -79,8 +85,8 @@
 	background-color: #F5F5F5;
 	float: left;
 	margin: 3px;
-	height: 250px;
-	width: 170px;
+	height: 260px;
+	width: 180px;
 	box-shadow: 2px 2px 7px -2px;
 	padding: 10px;
 }
@@ -93,11 +99,14 @@
 
 .corazon p{
 	text-align: center;
+	font-family: serif;
 }
 
 .corazon h3 {
 	text-align: center;
 	margin-top: 3px;
+	font-family: sans-serif;
+	font-size: 17px;
 }
 
 .corazon h4 {
@@ -117,8 +126,8 @@
 	background-color: #F5F5F5;
 	float: left;
 	margin: 3px;
-	height: 250px;
-	width: 170px;
+	height: 260px;
+	width: 180px;
 	box-shadow: 2px 2px 7px -2px;
 	padding: 10px;
 }
@@ -131,11 +140,14 @@
 
 .cafe p {
 	text-align: center;
+	font-family: serif;
 }
 
 .cafe h3 {
 	text-align: center;
 	margin-top: 3px;
+	font-family: sans-serif;
+	font-size: 17px;
 }
 
 .cafe h4 {
@@ -155,8 +167,8 @@
 	background-color: #F5F5F5;
 	float: left;
 	margin: 3px;
-	height: 250px;
-	width: 170px;
+	height: 260px;
+	width: 180px;
 	box-shadow: 2px 2px 7px -2px;
 	padding: 10px;
 }
@@ -169,11 +181,14 @@
 
 .comida p {
 	text-align: center;
+	font-family: serif;
 }
 
 .comida h3 {
 	text-align: center;
 	margin-top: 3px;
+	font-family: sans-serif;
+	font-size: 17px;
 }
 
 .comida h4 {
